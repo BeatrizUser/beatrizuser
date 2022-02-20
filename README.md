@@ -1,4 +1,7 @@
-## Oi!! Me chamo Beatriz Machado e estou aprendendo sobre programação!
+<div align="center">
+  <a href="https://github.com/BeatrizUser">
+  <h2>Oi!! Me chamo Beatriz Machado e estou aprendendo sobre programação!<h2>
+</div>
 <div align="center">
   <a href="https://github.com/BeatrizUser">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BeatrizUser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/BeatrizUser">
-  <h2>Oi!! Me chamo Beatriz Machado e estou aprendendo sobre programação!<h2>
+  <h2>Oi!! Me chamo Beatriz Machado sou uma Desenvolvedora Fulstack em constante desenvolvimento e aprendizado..<h2>
 </div>
 <div align="center">
   <a href="https://github.com/BeatrizUser">

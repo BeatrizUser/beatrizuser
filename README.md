@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/BeatrizUser">
-    <h2>Estudante de Ciência da Computação com ênfase em Desenvolvimento FullStack, apaixonada por programação e em constante busca por conhecimento. Experiência em programação Frontend com React, Javascript e Python, além de desenvolvimento de APIs com Node.js/Python e sistemas com Django. Familiarizada com metodologias ágeis, Git/GitFlow e deploy de aplicações na nuvem AWS. Comprometida em desenvolver soluções inovadoras e contribuir para o sucesso de projetos.</h2>
+    <h5>Estudante de Ciência da Computação com ênfase em Desenvolvimento FullStack, apaixonada por programação e em constante busca por conhecimento. Experiência em programação Frontend com React, Javascript e Python, além de desenvolvimento de APIs com Node.js/Python e sistemas com Django. Familiarizada com metodologias ágeis, Git/GitFlow e deploy de aplicações na nuvem AWS. Comprometida em desenvolver soluções inovadoras e contribuir para o sucesso de projetos.</h5>
   </a>
 </div>
 <div align="center">
@@ -25,7 +25,6 @@
 
 ##
 
-<div align="center"> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+ 
 

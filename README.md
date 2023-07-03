@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
   <a href="https://github.com/BeatrizUser">
     <h3>Olá, me chamo Beatriz.</h3>
     <h4>

@@ -2,10 +2,7 @@
   <a href="https://github.com/BeatrizUser">
     <h3>Olá, me chamo Beatriz.</h3>
     <h4>
-      Estudante de Ciência da Computação com ênfase em Desenvolvimento FullStack, apaixonada por programação e em constante busca por conhecimento.<br>
-      Experiência em programação Frontend com React, Javascript e Python, além de desenvolvimento de APIs com Node.js/Python e sistemas com Django.<br>
-      Familiarizada com metodologias ágeis, Git/GitFlow e deploy de aplicações na nuvem AWS.<br>
-      Comprometida em desenvolver soluções inovadoras e contribuir para o sucesso de projetos.<br>
+      Estudante de Ciência da Computação com ênfase em Desenvolvimento FullStack, apaixonada por programação e em constante busca por conhecimento.Experiência em programação Frontend com React, Javascript e Python, além de desenvolvimento de APIs com Node.js/Python e sistemas com Django. Familiarizada com metodologias ágeis, Git/GitFlow e deploy de aplicações na nuvem AWS. Comprometida em desenvolver soluções inovadoras e contribuir para o sucesso de projetos.
     </h4>
   </a>
 </div>
